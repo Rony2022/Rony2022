@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Rony2022/Rony2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rony2022/Rony2022**
 
 Here are some ideas to get you started:
 
